@@ -1,0 +1,5 @@
+pip install streamlit
+pip install streamlit-option-menu
+pip install pandas
+pip install mysql-connector-python
+pip install plotly
